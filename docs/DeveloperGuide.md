@@ -537,6 +537,8 @@ Given below is an example usage scenario and how the redeem mechanism behaves at
 
 6. Using the obtained `billing amount`, the `RedeemCommand` will execute and update related point. then return a  new `Member` with updated point.
 
+### Add reservation
+
 `[written by: Raja Sudalaimuthu Mukund]`
 
 #### Implementation
